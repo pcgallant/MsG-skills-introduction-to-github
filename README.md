@@ -8,6 +8,7 @@
 -->
 
 # Introduction to GitHub
+This is a change I made
 
 _Get started using GitHub in less than an hour._
 
